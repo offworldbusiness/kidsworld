@@ -3,7 +3,7 @@
 
 #[1. 개인정보의 처리 목적]
 
-> <OFF WORLD>(‘https://offworldbusiness.github.io/kidsworld.github.io’이하 ‘OFF WORLD’) 은(는) 다음의 목적을 위하여 개인정보를 처리하고 있으며, 다음의 목적 이외의 용도로는 이용하지 않습니다.
+> <OFF WORLD>(‘https://offworldbusiness.github.io/’이하 ‘OFF WORLD’) 은(는) 다음의 목적을 위하여 개인정보를 처리하고 있으며, 다음의 목적 이외의 용도로는 이용하지 않습니다.
   
 >> - 고객 가입의사 확인, 고객에 대한 서비스 제공에 따른 본인 식별.인증, 회원자격 유지.관리, 물품 또는 서비스 공급에 따른 금액 결제, 물품 또는 서비스의 공급.배송 등
 
@@ -11,7 +11,7 @@
 
 #[2. 개인정보의 처리 및 보유 기간]
 
-> 1) <OFF WORLD>(‘https://offworldbusiness.github.io/kidsworld.github.io’이하 ‘OFF WORLD’) 은(는) 정보주체로부터 개인정보를 수집할 때 동의 받은 개인정보 보유․이용기간 또는 법령에 따른 개인정보 보유․이용기간 내에서 개인정보를 처리․보유합니다.
+> 1) <OFF WORLD>(‘https://offworldbusiness.github.io/’이하 ‘OFF WORLD’) 은(는) 정보주체로부터 개인정보를 수집할 때 동의 받은 개인정보 보유․이용기간 또는 법령에 따른 개인정보 보유․이용기간 내에서 개인정보를 처리․보유합니다.
   
 > 2) 구체적인 개인정보 처리 및 보유 기간은 다음과 같습니다.
 
@@ -23,7 +23,7 @@
 
 #[3. 정보주체와 법정대리인의 권리·의무 및 그 행사방법 이용자는 개인정보주체로써 다음과 같은 권리를 행사할 수 있습니다.]
 
-> 1) 정보주체는 OFF WORLD(‘https://offworldbusiness.github.io/kidsworld.github.io’이하 ‘OFF WORLD) 에 대해 언제든지 다음 각 호의 개인정보 보호 관련 권리를 행사할 수 있습니다.
+> 1) 정보주체는 OFF WORLD(‘https://offworldbusiness.github.io/’이하 ‘OFF WORLD) 에 대해 언제든지 다음 각 호의 개인정보 보호 관련 권리를 행사할 수 있습니다.
 
 >> 1. 개인정보 열람요구
 
@@ -37,7 +37,7 @@
 
 #[4. 처리하는 개인정보의 항목 작성]
 
-> 1) ('https://offworldbusiness.github.io/kidsworld.github.io'이하 'OFF WORLD')은(는) 다음의 개인정보 항목을 처리하고 있습니다.
+> 1) ('https://offworldbusiness.github.io/'이하 'OFF WORLD')은(는) 다음의 개인정보 항목을 처리하고 있습니다.
 
 >> <서비스 제공에 필요한 이메일 주소, 서비스 이용 기록, 인 앱 결제기록 저장 및 관리>
 
@@ -73,7 +73,7 @@
 
 #[7. 개인정보 보호책임자 작성]
 
-> 1) OFF WORLD(‘https://offworldbusiness.github.io/kidsworld.github.io’이하 ‘OFF WORLD) 은(는) 개인정보 처리에 관한 업무를 총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의 불만처리 및 피해구제 등을 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다.
+> 1) OFF WORLD(‘https://offworldbusiness.github.io/’이하 ‘OFF WORLD) 은(는) 개인정보 처리에 관한 업무를 총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의 불만처리 및 피해구제 등을 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다.
 
 >> ▶ 개인정보 보호책임자
 >> -성명 :나재원
@@ -81,7 +81,7 @@
 >> -직급 :대표
 >> -연락처 :01041197629, offworldBusiness@gmail.com
 
-> 2) 정보주체께서는 OFF WORLD(‘https://offworldbusiness.github.io/kidsworld.github.io’이하 ‘OFF WORLD) 의 서비스(또는 사업)을 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자 및 담당부서로 문의하실 수 있습니다. OFF WORLD(‘https://offworldbusiness.github.io/kidsworld.github.io’이하 ‘OFF WORLD) 은(는) 정보주체의 문의에 대해 지체 없이 답변 및 처리해드릴 것입니다.
+> 2) 정보주체께서는 OFF WORLD(‘https://offworldbusiness.github.io/’이하 ‘OFF WORLD) 의 서비스(또는 사업)을 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자 및 담당부서로 문의하실 수 있습니다. OFF WORLD(‘https://offworldbusiness.github.io/’이하 ‘OFF WORLD) 은(는) 정보주체의 문의에 대해 지체 없이 답변 및 처리해드릴 것입니다.
 
 
 
