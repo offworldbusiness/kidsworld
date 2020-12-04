@@ -73,10 +73,10 @@ categories: jekyll update
 1. OFF WORLD(‘https://offworldbusiness.github.io/’이하‘OFF WORLD) 은(는) 개인정보 처리에 관한 업무를 총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의 불만처리 및 피해구제 등을 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다.
 
 
-&nbsp;&nbsp;(1) 개인정보 보호책임자 성명: 나재원
+&nbsp;&nbsp;&nbsp;&nbsp;(1) 개인정보 보호책임자 성명: 나재원
 
 
-&nbsp;&nbsp;(2) 이메일: offworldBusiness@gmail.com
+&nbsp;&nbsp;&nbsp;&nbsp;(2) 이메일: offworldBusiness@gmail.com
 
 
 2. 정보주체께서는OFF WORLD(‘https://offworldbusiness.github.io/’이하‘OFF WORLD’) 의 서비스(또는 사업)을 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자 및 담당부서로 문의하실 수 있습니다. OFF WORLD(‘https://offworldbusiness.github.io/’이하‘OFF WORLD’) 은(는) 정보주체의 문의에 대해 지체 없이 답변 및 처리해드릴 것입니다.
