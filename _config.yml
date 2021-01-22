@@ -93,8 +93,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kids World"
-  avatar           : "icon3.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Kids World AR"
+  avatar           : "kidsWorldlastIcon.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "대표 : 나재원"
   location         : "경기도 수원시 팔달구 경수대로565번길 19"
   email            : "offworldBusiness@gmail.com"
